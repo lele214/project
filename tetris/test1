@@ -1,6 +1,0 @@
-x= 9 / 3
-if math.floor(x) == x then
-    print("true")
-else
-    print("false")
-end
